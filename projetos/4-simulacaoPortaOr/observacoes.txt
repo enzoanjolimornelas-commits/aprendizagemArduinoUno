@@ -1,0 +1,5 @@
+A saída já será 1 (LED ligado) se uma ou duas entradas forem 1 (botão pressionado)
+0 e 0 -> 0
+1 e 0 -> 1
+0 e 1 -> 1
+1 e 1 -> 1
